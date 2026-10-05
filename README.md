@@ -14,7 +14,7 @@ My journey from Python fundamentals to building real-world data engineering proj
 
 - `practice/` — Coding exercises, experiments, and learning.
 - `projects/` — Practical projects and portfolio work.
-- `Logs/` — Daily learning monitoring.
+- `Logs/` — Learning notes and progress tracking.
 
 ## Learning Philosophy
 
